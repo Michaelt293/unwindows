@@ -29,4 +29,14 @@ Writing file with UTF-8 apostrophes to:
 
 ### Installation
 
+Install stack -
 `curl -sSL https://get.haskellstack.org/ | sh`
+
+Clone repo -
+`https://github.com/Michaelt293/unwindows.git`
+
+Install -
+```
+cd unwindows
+stack install
+```
